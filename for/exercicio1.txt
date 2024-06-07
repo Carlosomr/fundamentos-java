@@ -1,0 +1,15 @@
+Fazer um programa que le um valor inteiro N e depois N numeros inteiros.
+
+Ao final, mostrar a soma dos N numeros lidos
+
+entrada                         
+
+quantidade: ex: 3numeros
+
+10 
+10
+10
+
+saida
+
+30
